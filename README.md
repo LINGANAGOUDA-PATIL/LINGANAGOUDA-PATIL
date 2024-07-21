@@ -17,8 +17,16 @@ I have a solid background in tools like Excel, Power BI, SQL, and Python. My goa
 ## Projects
 - [BI 360](https://github.com/yourusername/project1)
 - [AtliQ Grand](https://github.com/yourusername/project2)
+- 
+## Let's Connect!
 
-## Connect with me
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white) [LinkedIn](https://www.linkedin.com/in/linganagouda-patil/)
-- 📫 Email: Lingu8210@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/linganagouda-patil/)
+ <!-- Replace with your portfolio link if available -->
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:lingu8210@gmail.com)
+
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+
+![Profile views](https://komarev.com/ghpvc/?username=linganagouda-patil&color=dc143c) <!-- Replace 'yourusername' with your GitHub username -->
+
+
 
