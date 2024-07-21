@@ -21,7 +21,6 @@ I have a solid background in tools like Excel, Power BI, SQL, and Python. My goa
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/linganagouda-patil/)
- <!-- Replace with your portfolio link if available -->
 [![Email](https://img.shields.io/badge/-Email-red)](mailto:lingu8210@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
