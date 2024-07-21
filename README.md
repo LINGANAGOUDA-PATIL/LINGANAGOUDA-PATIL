@@ -15,9 +15,9 @@ I have a solid background in tools like Excel, Power BI, SQL, and Python. My goa
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ## Projects
-- [BI 360](https://github.com/yourusername/project1)
-- [AtliQ Grand](https://github.com/yourusername/project2)
-- 
+- [Hr-Analytics](https://github.com/LINGANAGOUDA-PATIL/Hr-Analystics.)
+- [Credit card ](https://github.com/LINGANAGOUDA-PATIL/Credit-Card-Analysis)
+- [Virat kohli  ](https://github.com/LINGANAGOUDA-PATIL/Virat-Kohli-Performance-Analysis)
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/linganagouda-patil/)
